@@ -1,6 +1,6 @@
-﻿<?Infragistics.Models format="xaml" version="4" appVersion="10.1.0.81"?>
+﻿<?Infragistics.Models format="xaml" version="4" appVersion="10.1.1000.89"?>
 <Project xmlns="http://prototypes.infragistics.com/"
-                                                                                   Id="F2D65MM2WZ7E" StartScreens="/Screen.screen" IndigoVersion="10" RecentColors="#FF555555,#FFCB6009,#FF1C1C1C,#FFF68324,#FFFFFFFF,#FFC0504D,#FF717171,#FFF79646,#FFE3E300,#FFFFFF00" LastUsedFonts="Roboto Condensed,Roboto">
+                                                                                      Id="F2D65MM2WZ7E" StartScreens="/home.screen" IndigoVersion="10" RecentColors="#FF383838,#FF000000,#FFFFFFFF,#FFA6C36B,#FF4BACC6,#FFF79646,#FF717171,#FF555555,#FFCB6009,#FF1C1C1C" LastUsedFonts="Roboto,Roboto Condensed">
     <Project.Defaults>
         <ProjectDefaults Viewport="1280,1024">
             <ProjectDefaults.Device>

@@ -1,7 +1,7 @@
-﻿<?Infragistics.Models format="xaml" version="30" appVersion="10.1.0.81"?>
+﻿<?Infragistics.Models format="xaml" version="30" appVersion="10.1.1000.89"?>
 <Page xmlns="http://prototypes.infragistics.com/"
-                                                                                 xmlns:d="http://prototypes.infragistics.com/views/design"
-                                                                                 Id="9d6a7c27-7c9d-4476-98df-d567c5c3f2bf" d:Design.ShowGuides="False">
+                                                                                    xmlns:d="http://prototypes.infragistics.com/views/design"
+                                                                                    Id="9d6a7c27-7c9d-4476-98df-d567c5c3f2bf" d:Design.ShowGuides="False">
     <Page.Content>
         <Content Width="1280" Height="1536" Id="f7f9e491-9d86-4158-a657-bab26f06356f">
             <Content.Layers>
@@ -61,11 +61,6 @@
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Button Text="ПОРЪЧАЙ СЕГА" Background="#FFE3E300" BorderThickness="0" Foreground="#FFFFFFFF" FontSize="21" FontFamily="Roboto" FontStyle="Bold" Id="61e0f932-9205-4402-a5af-ae2d9bcc16e2" Panel.Bounds="982,25,210{5,2147483647},43{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
                                 <Rectangle Thickness="0" CornerRadius="3" Id="20e5171c-d46d-48bd-8749-7fba5112585c" Panel.Bounds="88,507,263{5,2147483647},388{5,2147483647}" />
                             </Add.Item>
                         </Add>
@@ -87,26 +82,6 @@
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
                                 <Button Text="ИЗБЕРИ" Background="#FFF68324" BorderThickness="0" Foreground="#FFFFFFFF" FontSize="21" FontFamily="Roboto" FontStyle="Bold" Opacity="0.8" Id="f1e1ea1e-cf84-4290-826f-0c7f0dd70ad1" Panel.Bounds="104,834,231{5,2147483647},43{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Rectangle Thickness="0" Id="72abcc31-c08b-4718-a391-a4ad4848f8ad" Panel.Bounds="758,369,327{5,2147483647},48{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Title RichText="НОВО ПРЕДЛОЖЕНИЕ" Align="Left" Foreground="#FFFFFFFF" FontSize="48" FontFamily="Roboto Condensed" FontStyle="Bold" Id="b756478c-3d6b-413b-b9ef-bddb982a1d4b" Panel.Bounds="756,397,5*{5,2147483647},5*{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Before="72abcc31-c08b-4718-a391-a4ad4848f8ad" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Image SourcePath="assets/14925472_1412153838798924_5423814280102744881_n.jpg" Scale="-1,1" Id="4c06a1a8-a892-426f-aa65-098844bf338a" Panel.Bounds="0,94,1280{5,2147483647},388{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Title RichText="&lt;Run Foreground=&quot;#FFF68324&quot; FontWeight=&quot;Normal&quot; &gt;пилешки дюнер&lt;/Run&gt;" Align="Right" Foreground="#FFFFFFFF" FontSize="48" FontFamily="Roboto Condensed" FontStyle="Bold" Id="2537961d-3e9e-45b2-b9f5-69b853e4c87e" Panel.Bounds="670,356,402{5,2147483647},64{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
@@ -264,7 +239,266 @@
                                 <Rectangle Thickness="0" Background="#FF8DAE47" Id="1672491e-bd3c-4955-919b-fa2273deea76" ControlExtensions.Locked="True" Panel.Bounds="0,0,1280{5,2147483647},94{5,2147483647}" />
                             </Add.Item>
                         </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon IsSelected="True" Color="#FFFFFFFF" CatalogId="iOS 7 Contacts" Id="3e3b4621-6b6f-4e43-8dd4-17dc1a25e7a4" Panel.Bounds="1149,25,43{5,2147483647},43{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon IsSelected="True" Color="#FFFFFFFF" CatalogId="fa-shopping-basket" Id="b99f6b00-b3e2-46a8-a153-44fc69bba943" Panel.Bounds="1080,25,43{5,2147483647},43{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Line Thickness="1" RotationAngle="-90" Color="#FFFFFFFF" Background="#00FFFFFF" Id="22bd20ff-d49d-4dae-9500-aa71afa14875" Panel.Bounds="1136,20,3,52">
+                                    <Line.StartPoint>
+                                        <Point X="60" Y="26" Id="b38ed675-f05c-4264-8e9a-46da584438ae" />
+                                    </Line.StartPoint>
+                                    <Line.Segments>
+                                        <Segment Id="204588ed-35c3-44e7-83ba-94ad84e78a6a">
+                                            <Segment.EndPoint>
+                                                <Point X="60" Y="-26" Id="bc5f3ce1-ecaf-4aa8-87d1-84a237b6146e" />
+                                            </Segment.EndPoint>
+                                        </Segment>
+                                    </Line.Segments>
+                                </Line>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Thickness="0" CornerRadius="3" Id="287442a3-8e08-4000-8fc8-31b4e492ba42" Panel.Bounds="88,106,263{5,2147483647},35{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Title RichText="доставка" Align="Center" Foreground="#FF383838" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="a7faf324-2436-41fc-924f-07f29b605d87" Panel.Bounds="102,105,235{5,2147483647},32*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Thickness="0" CornerRadius="3" Id="312ed90f-77c2-49df-a4fd-9201ffdebcfe" Panel.Bounds="370,106,263{5,2147483647},35{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Title RichText="меню" Align="Center" Foreground="#FF383838" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="85d44253-6f1c-4894-805f-7b5aba8901f7" Panel.Bounds="384,105,235{5,2147483647},32*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Thickness="0" CornerRadius="3" Id="c5cf58ac-d8fa-4257-8e74-4a9e23d35ec6" Panel.Bounds="650,106,263{5,2147483647},35{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Title RichText="финализиране" Align="Center" Foreground="#FF383838" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="9a279f3a-68da-4a31-901a-16ea8cbd2537" Panel.Bounds="664,105,235{5,2147483647},32*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Thickness="0" CornerRadius="3" Id="68ca4db6-b114-4837-a199-0d99903a0bb2" Panel.Bounds="929,106,263{5,2147483647},35{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Title RichText="статус" Align="Center" Foreground="#FF383838" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="16ae01f9-caf9-4ec9-8a16-bb02294ea921" Panel.Bounds="943,105,235{5,2147483647},32*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon CatalogId="iOS 7 Next" Id="7e1b9ff0-d705-4ceb-9046-d56311938d52" Panel.Bounds="318,107,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon CatalogId="iOS 7 Next" Id="46b5ae88-c655-4b07-8fd2-b5b9254a3ed7" Panel.Bounds="601,107,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon CatalogId="iOS 7 Next" Id="cc19121e-1ba0-4874-aa75-8de6e9253378" Panel.Bounds="881,107,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="1672491e-bd3c-4955-919b-fa2273deea76" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Thickness="0" Background="#FF8DAE47" Id="7b61f504-8702-48e2-a797-7f90954f292f" Panel.Bounds="0,93,1280{5,2147483647},62{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Thickness="0" CornerRadius="3" Id="02025f91-09e4-407c-bd92-4864c98a5e93" Panel.Bounds="88,168,1104{5,2147483647},326{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Title RichText="Изберете как и кога ще вземете поръчката си" Align="Center" Foreground="#FFC0504D" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="a9b842f9-a22c-41fc-a16c-271fe38cbae3" Panel.Bounds="130,186,974{5,2147483647},32*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="2524d512-5590-4350-8ec5-aa39aeee2f10" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Group GroupName="Group" Id="c350fdde-69ed-479d-92e9-3681c0f48fda" Panel.Bounds="173,262,0*,0*">
+                                    <Group.Children>
+                                        <Icon CatalogId="Pin" Id="0ae36e12-5a1d-4c2a-8fcf-441de63a99d6" Panel.Bounds="0,0,61{5,2147483647},61{5,2147483647}" />
+                                        <Title RichText="Лично&#xD;&#xA;в нашият ресторант" Align="Center" Foreground="#FF383838" FontSize="18" FontFamily="Roboto" FontStyle="Normal" Id="2524d512-5590-4350-8ec5-aa39aeee2f10" Panel.Bounds="63,6,191{5,2147483647},32*{5,2147483647}" />
+                                    </Group.Children>
+                                </Group>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Before="c350fdde-69ed-479d-92e9-3681c0f48fda" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle CornerRadius="5" Id="e2ed28db-ded1-4435-88e7-f17e58344af6" Panel.Bounds="169,255,258{5,2147483647},74{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle CornerRadius="5" Id="9ee03092-7cc2-4458-8969-d5bccaaa1d42" Panel.Bounds="169,358,258{5,2147483647},74{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Group GroupName="Group" Id="9b0bcf7f-78cc-4dfa-865c-440853a09938" Panel.Bounds="173,365,0*,0*">
+                                    <Group.Children>
+                                        <Icon CatalogId="Shipping" Id="42af59f1-35e8-40ce-a8c7-ce240f3e93f2" Panel.Bounds="0,0,61{5,2147483647},61{5,2147483647}" />
+                                        <Title RichText="Доставка&#xD;&#xA;&lt;Run FontSize=&quot;14&quot; &gt;цена - 2 лв. (център - 1 лв.)&lt;/Run&gt;" Align="Center" Foreground="#FF383838" FontSize="18" FontFamily="Roboto" FontStyle="Normal" Id="57db8244-17c3-41f0-85e1-9b24704e6ac8" Panel.Bounds="59,8,195{5,2147483647},32*{5,2147483647}" />
+                                    </Group.Children>
+                                </Group>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Title RichText="Час" Align="Center" Foreground="#FF383838" FontSize="21" FontFamily="Roboto" FontStyle="Normal" Id="bb0d39f3-6b3d-40d7-a39d-69929360ce5c" Panel.Bounds="466,294,220{5,2147483647},32*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <ComboBox FontFamily="Roboto" Id="f233d094-bd6e-4c83-a766-16736f0cb5bd" Panel.Bounds="507,341,96{5,2147483647},32{5,2147483647}">
+                                    <ComboBox.Items>
+                                        <Item Text="10:15" Id="3687c0a1-1103-4ecf-8160-09c77982178a" />
+                                        <Item Text="10:30" Id="b27b02a7-c95e-4573-9f7a-5efc7c48b80b" />
+                                        <Item Text="10:45" Id="cb954e4a-ba78-47f2-92c8-060651e3b3bb" />
+                                        <Item Text="11:00" Id="1e43d202-2606-4ea9-a5b4-2d83c45aa90c" />
+                                        <Item Text="11:15" Id="4ba899cd-8f4a-42bf-8a4e-818d8b5573fd" />
+                                        <Item Text="11:30" Id="9243dd1d-df1f-4d22-9be4-4ae9117142f4" />
+                                        <Item Text="11:45" Id="6fb71015-b3c5-41dc-83cb-1b2bc040be05" />
+                                        <Item Text="..." Id="26ef28f6-1302-40b8-a4af-86347020663c" />
+                                        <Item Text="18:30" Id="188cdb3a-d5c0-4429-9d5e-41918bce108a" />
+                                        <Item Text="16:45" Id="32e63ff1-3012-44f1-9c43-a950a865ab24" />
+                                    </ComboBox.Items>
+                                </ComboBox>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon IsSelected="True" CatalogId="iOS 7 Clock" Id="5c5b38b5-7351-4d73-8cc1-60b2a300c8a6" Panel.Bounds="507,292,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Line Thickness="1" RotationAngle="-90" Background="#00FFFFFF" Id="a788a92b-38f3-4bf8-ab1a-8b11a4231dca" Panel.Bounds="467,249,3,197">
+                                    <Line.StartPoint>
+                                        <Point X="62" Y="137" Id="cf0ffe7b-dbcc-4cac-8f19-d104dcb45448" />
+                                    </Line.StartPoint>
+                                    <Line.Segments>
+                                        <Segment Id="78b6994b-8179-47c7-b77f-6012e82fa020">
+                                            <Segment.EndPoint>
+                                                <Point X="62" Y="-60" Id="8d8a1933-c4a1-4cff-a5d1-a18cc4e0b694" />
+                                            </Segment.EndPoint>
+                                        </Segment>
+                                    </Line.Segments>
+                                </Line>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Line Thickness="1" RotationAngle="-90" Background="#00FFFFFF" Id="8c458c3b-e473-4632-b3e5-32aff0fe83cd" Panel.Bounds="637,249,3,197">
+                                    <Line.StartPoint>
+                                        <Point X="62" Y="137" Id="45e36cf1-2735-4758-a589-5f65f69b7128" />
+                                    </Line.StartPoint>
+                                    <Line.Segments>
+                                        <Segment Id="a5cfc00b-812b-4aad-b60b-9813a7eaac36">
+                                            <Segment.EndPoint>
+                                                <Point X="62" Y="-60" Id="01cded3a-feb7-4f66-b30e-5e286d37d8dd" />
+                                            </Segment.EndPoint>
+                                        </Segment>
+                                    </Line.Segments>
+                                </Line>
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <TextBox WatermarkText="адрес за доставка" FontFamily="Roboto" Id="523e80c4-0ea2-487c-a8b1-944bb4f86539" Panel.Bounds="728,268,382{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon IsSelected="True" CatalogId="Locate" Id="fd505155-d2c4-44e7-828f-70901de5ae2f" Panel.Bounds="689,264,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <TextBox WatermarkText="телефон за контакт" FontFamily="Roboto" Id="80622317-1bbb-4eb7-ad49-6c6960c68014" Panel.Bounds="728,319,382{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon IsSelected="True" CatalogId="Telephone" Id="0ddec41e-5d90-4e8f-84d5-dabdd4b7e449" Panel.Bounds="689,315,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <TextArea WatermarkText="забележка" FontFamily="Roboto" Id="5f2bbac9-4357-4b39-a877-5c14523475c1" Panel.Bounds="728,365,382{5,2147483647},74{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Icon IsSelected="True" CatalogId="fa-sticky-note" Id="bfba9d8d-e04f-4116-9a5c-e892537d1fe3" Panel.Bounds="689,366,32{5,2147483647},32{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
                         <Set Property="Content.Background" Value="#FF1C1C1C" Target="f7f9e491-9d86-4158-a657-bab26f06356f" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Disconnected State" StateGroup="b5cbf612-632b-4a61-b7e6-9dba3991e9ff" ParentScene="b5cbf612-632b-4a61-b7e6-9dba3991e9ff" Created="02/14/2018 13:37:04" Id="7aa784f1-2992-4f35-ab5d-a3aaeb959b1a">
+            <Scene.KeyFrames>
+                <KeyFrame Id="2ec7ef8e-8d9f-437b-b7d8-bfec6d9709b4">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Thickness="0" Opacity="0.6" Id="d507bbf5-3e50-4e7e-8531-ca6694853d67" Panel.Bounds="0,0,1283{5,2147483647},1536{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Id="8109fa15-e51d-4747-8d30-5bbfcb79af9b" Panel.Bounds="274,159,709{5,2147483647},515{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <TextBox WatermarkText="email" FontFamily="Roboto Condensed" Id="917605a3-47d5-4624-b629-8971bf560c13" Panel.Bounds="469,240,310{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <PasswordBox WatermarkText="password" FontFamily="Roboto Condensed" Id="b707cd23-6dc9-40b2-bd80-2e63354e18ed" Panel.Bounds="469,311,310{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Button Text="ВХОД" Background="#FF4BACC6" FontFamily="Roboto" Id="a07db598-3702-4bb6-84cf-40993c33f4fc" Panel.Bounds="603,382,176{5,2147483647},35{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Button Text="РЕГИСТРАЦИЯ" Background="#FFF79646" BorderColor="#FF717171" FontFamily="Roboto" Id="8e4bb4a2-0766-4c95-81e8-20c8ee54ce87" Panel.Bounds="469,558,310{5,2147483647},35{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <CheckBox Text="запомни ме" FontFamily="Roboto" Id="01b6119f-6ff8-4d28-bbaf-1f4e932668a0" Panel.Bounds="469,384,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
                     </KeyFrame.Operations>
                 </KeyFrame>
             </Scene.KeyFrames>
