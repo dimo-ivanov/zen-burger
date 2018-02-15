@@ -61,177 +61,77 @@
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Rectangle Thickness="0" CornerRadius="3" Id="20e5171c-d46d-48bd-8749-7fba5112585c" Panel.Bounds="88,507,263{5,2147483647},388{5,2147483647}" />
+                                <MapMock EmbedCode="&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.225454323191!2d25.555005914906946!3d41.93100467008179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ad50cf43aab045%3A0x9d829efb250fea66!2sZen+Burger!5e0!3m2!1sbg!2sbg!4v1518102520108&quot; width=&quot;1104&quot; height=&quot;384&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;" MockType="Street Map" Id="344c8702-07bd-4e26-add9-2733118b1fd0" Panel.Bounds="88,577,655{5,2147483647},384{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Image SourcePath="assets/burger-closeup(1).jpg" Id="25e45f40-0d13-4cfa-bee4-6aade67d9af2" Panel.Bounds="88,507,263,172" />
+                                <Rectangle Thickness="0" CornerRadius="5" Id="98fcc6c2-1007-470d-b0ba-e277ba6c776d" Panel.Bounds="757,576,435{5,2147483647},178{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Title RichText="Бургер с колбас" Align="Center" Foreground="#FFC0504D" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="48cb496f-a612-4b18-ae6d-b9b57694eb11" Panel.Bounds="88,688,263{5,2147483647},32*{5,2147483647}" />
+                                <Title RichText="ДОСТАВКА" Foreground="#FFCB6009" FontFamily="Roboto Condensed" Id="2015c338-f908-4582-b24a-c33cff0d8728" Panel.Bounds="898,599,152*{5,2147483647},39{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Label RichText="пуешко, шунка или пикантен салан&#xD;&#xA;+ кашкавал&#xD;&#xA;+ маслинова паста&#xD;&#xA;+ гарнитура" Foreground="#FF717171" FontSize="14" FontFamily="Roboto" Id="a189a240-ca5c-48ca-ab1c-7fdd5d966743" Panel.Bounds="104,730,231*{5,2147483647},94{5,2147483647}" />
+                                <Label RichText="&lt;Run FontSize=&quot;14&quot; Foreground=&quot;#FF555555&quot; &gt;Проследете статуса на поръчката си и заповядайте да я вземете&#xD;&#xA;&lt;/Run&gt;&lt;Run FontSize=&quot;14&quot; Foreground=&quot;#FF555555&quot; &gt;от нас на адрес Хасково, площад &quot;Общински&quot;.&#xD;&#xA;&lt;/Run&gt;&lt;Run FontSize=&quot;14&quot; Foreground=&quot;#FF555555&quot; &gt;Можете да използвате и възможността за доставка на цена&#xD;&#xA;&lt;/Run&gt;&lt;Run FontSize=&quot;14&quot; Foreground=&quot;#FF555555&quot; &gt;от 2 лв. или 1 лв. за адрес в централните части на града.&lt;/Run&gt;" FontFamily="Roboto Condensed" Id="1e63e769-9e81-4fe2-a05d-7ba330320b6b" Panel.Bounds="791,647,374*{5,2147483647},81{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Button Text="ИЗБЕРИ" Background="#FFF68324" BorderThickness="0" Foreground="#FFFFFFFF" FontSize="21" FontFamily="Roboto" FontStyle="Bold" Opacity="0.8" Id="f1e1ea1e-cf84-4290-826f-0c7f0dd70ad1" Panel.Bounds="104,834,231{5,2147483647},43{5,2147483647}" />
+                                <Rectangle Thickness="0" CornerRadius="5" Id="969d829c-bec5-44e5-bd41-bf779a4fceb9" Panel.Bounds="757,770,435{5,2147483647},191{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Rectangle Thickness="0" CornerRadius="3" Id="aa89a984-5284-4c7f-81c0-a0767ff206ab" Panel.Bounds="370,507,263{5,2147483647},388{5,2147483647}" />
+                                <Title RichText="СТАТУС НА ПОРЪЧКА" Foreground="#FFCB6009" FontFamily="Roboto Condensed" Id="fbacb21d-d577-464b-ab8c-51ca8ea83b38" Panel.Bounds="823,792,152*{5,2147483647},42{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Image SourcePath="assets/doner.jpg" Id="84a04a14-7f9f-4e09-84c3-4082086a4bc5" Panel.Bounds="370,507,263,172" />
+                                <Label RichText="Ние ценим времето ви! Затова ви предоставяме възможността&#xD;&#xA;да проследите статуса на поръчката си в реално време. &#xD;&#xA;Така ще можете да планувате по-добре почивката си&#xD;&#xA;и винаги ще похапвате прясно приготвена храна." FontFamily="Roboto Condensed" Id="f3a18dca-9e19-437b-8532-81fb776efa6a" Panel.Bounds="791,861,374*{5,2147483647},69{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Title RichText="Дюнер" Align="Center" Foreground="#FFC0504D" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="4785cb19-90d2-4ecf-ba19-2b734bb59a80" Panel.Bounds="370,688,263{5,2147483647},32*{5,2147483647}" />
+                                <Rectangle Thickness="0" Background="#FF8DAE47" Id="8e46072f-d6ae-4696-8473-0a17c5a23152" Panel.Bounds="0,1006,1280{5,2147483647},94{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Label RichText="питка, палачинка&#xD;&#xA;или порция с гарнитура" Align="Center" Foreground="#FF717171" FontSize="14" FontFamily="Roboto" Id="65ccecbd-a451-46a2-8918-e2ac89adff42" Panel.Bounds="386,730,231{5,2147483647},94{5,2147483647}" />
+                                <Label RichText="2018 © Зен Бургер " Foreground="#FFFFFFFF" FontFamily="Roboto" Id="dd5579a4-786e-4c08-bd2d-cf6cc85f0af7" Panel.Bounds="580,1120,5*{5,2147483647},5*{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Button Text="ИЗБЕРИ" Background="#FFF68324" BorderThickness="0" Foreground="#FFFFFFFF" FontSize="21" FontFamily="Roboto" FontStyle="Bold" Opacity="0.8" Id="a51ac28a-fa04-4cce-a689-03597b4e9a80" Panel.Bounds="386,834,231{5,2147483647},43{5,2147483647}" />
+                                <Icon Color="#FFFFFFFF" CatalogId="fa-at" Id="10967f75-3984-42e1-803a-d5c159910957" Panel.Bounds="538,1054,35{5,2147483647},35{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Rectangle Thickness="0" CornerRadius="3" Id="f1232e0d-e163-4883-a022-30a24054219c" Panel.Bounds="650,507,263{5,2147483647},388{5,2147483647}" />
+                                <Icon Color="#FFFFFFFF" CatalogId="fa-facebook" Id="b69f68c5-a3b7-43ce-9823-6b6a660c6245" Panel.Bounds="580,1054,35{5,2147483647},35{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Image SourcePath="assets/salad.jpg" Id="b738c7de-4ae1-426e-b4b7-c1d7960d0ec0" Panel.Bounds="650,507,263,172" />
+                                <Icon Color="#FFFFFFFF" CatalogId="fa-google-plus" Id="a425e9ac-fb64-4877-82cd-823cb8c5022f" Panel.Bounds="622,1054,35{5,2147483647},35{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Title RichText="Салата" Align="Center" Foreground="#FFC0504D" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="8c66964c-43ff-43a2-bb23-62726c00e540" Panel.Bounds="650,688,263{5,2147483647},32*{5,2147483647}" />
+                                <Icon Color="#FFFFFFFF" CatalogId="fa-youtube-play" Id="2b7bd3f7-b046-4ded-b0cb-9b0bee04d30d" Panel.Bounds="665,1054,35{5,2147483647},35{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Label RichText="зеле,&#xD;&#xA;зеле и моркови, &#xD;&#xA;зелена,&#xD;&#xA;сезонна" Align="Center" Foreground="#FF717171" FontSize="14" FontFamily="Roboto" Id="7a057a43-1107-43f4-bb0b-195ee2f6447e" Panel.Bounds="666,730,231{5,2147483647},94{5,2147483647}" />
+                                <Icon Color="#FFFFFFFF" CatalogId="fa-instagram" Id="4100025d-18f1-4631-accc-81cee89b7f58" Panel.Bounds="707,1054,35{5,2147483647},35{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Button Text="ИЗБЕРИ" Background="#FFF68324" BorderThickness="0" Foreground="#FFFFFFFF" FontSize="21" FontFamily="Roboto" FontStyle="Bold" Opacity="0.8" Id="9011c4ff-9a54-4538-8cc5-926aa2b8ccd5" Panel.Bounds="666,834,231{5,2147483647},43{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Rectangle Thickness="0" CornerRadius="3" Id="c67fb870-adce-4075-94a1-408e83a9eba0" Panel.Bounds="929,507,263{5,2147483647},388{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Image SourcePath="assets/others.jpg" Id="26520308-04e9-4a82-b1c7-f99484be2a58" Panel.Bounds="929,507,263,172" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Title RichText="Други" Align="Center" Foreground="#FFC0504D" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="4a4ff07a-0f20-4f9b-8116-841d2d150d94" Panel.Bounds="929,688,263{5,2147483647},32*{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Label RichText="американски хот-дог,&#xD;&#xA;пържени картофки,&#xD;&#xA;напитки" Align="Center" Foreground="#FF717171" FontSize="14" FontFamily="Roboto" Id="aecc880b-8296-4ef0-a1fc-72af387da315" Panel.Bounds="945,730,231{5,2147483647},94{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Button Text="ИЗБЕРИ" Background="#FFF68324" BorderThickness="0" Foreground="#FFFFFFFF" FontSize="21" FontFamily="Roboto" FontStyle="Bold" Opacity="0.8" Id="41e37c19-e54b-4e04-8d5d-7340a8db1d0f" Panel.Bounds="945,834,231{5,2147483647},43{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <MapMock EmbedCode="&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2968.225454323191!2d25.555005914906946!3d41.93100467008179!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ad50cf43aab045%3A0x9d829efb250fea66!2sZen+Burger!5e0!3m2!1sbg!2sbg!4v1518102520108&quot; width=&quot;1104&quot; height=&quot;384&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen&gt;&lt;/iframe&gt;" MockType="Street Map" Id="344c8702-07bd-4e26-add9-2733118b1fd0" Panel.Bounds="88,925,655{5,2147483647},384{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Rectangle Thickness="0" CornerRadius="5" Id="98fcc6c2-1007-470d-b0ba-e277ba6c776d" Panel.Bounds="757,924,435{5,2147483647},178{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Title RichText="ДОСТАВКА" Foreground="#FFCB6009" FontFamily="Roboto Condensed" Id="2015c338-f908-4582-b24a-c33cff0d8728" Panel.Bounds="898,947,152*{5,2147483647},39{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Label RichText="&lt;Run FontSize=&quot;14&quot; Foreground=&quot;#FF555555&quot; &gt;Проследете статуса на поръчката си и заповядайте да я вземете&#xD;&#xA;&lt;/Run&gt;&lt;Run FontSize=&quot;14&quot; Foreground=&quot;#FF555555&quot; &gt;от нас на адрес Хасково, площад &quot;Общински&quot;.&#xD;&#xA;&lt;/Run&gt;&lt;Run FontSize=&quot;14&quot; Foreground=&quot;#FF555555&quot; &gt;Можете да използвате и възможността за доставка на цена&#xD;&#xA;&lt;/Run&gt;&lt;Run FontSize=&quot;14&quot; Foreground=&quot;#FF555555&quot; &gt;от 2 лв. или 1 лв. за адрес в централните части на града.&lt;/Run&gt;" FontFamily="Roboto Condensed" Id="1e63e769-9e81-4fe2-a05d-7ba330320b6b" Panel.Bounds="791,995,374*{5,2147483647},81{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Rectangle Thickness="0" CornerRadius="5" Id="969d829c-bec5-44e5-bd41-bf779a4fceb9" Panel.Bounds="757,1118,435{5,2147483647},191{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Title RichText="СТАТУС НА ПОРЪЧКА" Foreground="#FFCB6009" FontFamily="Roboto Condensed" Id="fbacb21d-d577-464b-ab8c-51ca8ea83b38" Panel.Bounds="823,1140,152*{5,2147483647},42{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Label RichText="Ние ценим времето ви! Затова ви предоставяме възможността&#xD;&#xA;да проследите статуса на поръчката си в реално време. &#xD;&#xA;Така ще можете да планувате по-добре почивката си&#xD;&#xA;и винаги ще похапвате прясно приготвена храна." FontFamily="Roboto Condensed" Id="f3a18dca-9e19-437b-8532-81fb776efa6a" Panel.Bounds="791,1209,374*{5,2147483647},69{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Rectangle Thickness="0" Background="#FF8DAE47" Id="8e46072f-d6ae-4696-8473-0a17c5a23152" Panel.Bounds="0,1354,1280{5,2147483647},94{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Label RichText="2018 © Зен Бургер " Foreground="#FFFFFFFF" FontFamily="Roboto" Id="dd5579a4-786e-4c08-bd2d-cf6cc85f0af7" Panel.Bounds="580,1468,5*{5,2147483647},5*{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Icon Color="#FFFFFFFF" CatalogId="fa-at" Id="10967f75-3984-42e1-803a-d5c159910957" Panel.Bounds="538,1402,35{5,2147483647},35{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Icon Color="#FFFFFFFF" CatalogId="fa-facebook" Id="b69f68c5-a3b7-43ce-9823-6b6a660c6245" Panel.Bounds="580,1402,35{5,2147483647},35{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Icon Color="#FFFFFFFF" CatalogId="fa-google-plus" Id="a425e9ac-fb64-4877-82cd-823cb8c5022f" Panel.Bounds="622,1402,35{5,2147483647},35{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Icon Color="#FFFFFFFF" CatalogId="fa-youtube-play" Id="2b7bd3f7-b046-4ded-b0cb-9b0bee04d30d" Panel.Bounds="665,1402,35{5,2147483647},35{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Icon Color="#FFFFFFFF" CatalogId="fa-instagram" Id="4100025d-18f1-4631-accc-81cee89b7f58" Panel.Bounds="707,1402,35{5,2147483647},35{5,2147483647}" />
-                            </Add.Item>
-                        </Add>
-                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
-                            <Add.Item>
-                                <Label RichText="АЛЕРГЕНИ &lt;Run FontSize=&quot;18&quot; &gt;|&lt;/Run&gt; ЗА НАС &lt;Run FontSize=&quot;18&quot; &gt;|&lt;/Run&gt; РАБОТИ ПРИ НАС" Foreground="#FFFFFFFF" FontFamily="Roboto" Id="cb0f19a0-185b-4906-a364-7808ac3676a2" Panel.Bounds="516,1366,5*{5,2147483647},5*{5,2147483647}" />
+                                <Label RichText="АЛЕРГЕНИ &lt;Run FontSize=&quot;18&quot; &gt;|&lt;/Run&gt; ЗА НАС &lt;Run FontSize=&quot;18&quot; &gt;|&lt;/Run&gt; РАБОТИ ПРИ НАС" Foreground="#FFFFFFFF" FontFamily="Roboto" Id="cb0f19a0-185b-4906-a364-7808ac3676a2" Panel.Bounds="516,1018,5*{5,2147483647},5*{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Before="8bc05942-5d9a-43f1-9e14-6579b8359630" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
@@ -241,7 +141,11 @@
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Icon IsSelected="True" Color="#FFFFFFFF" CatalogId="iOS 7 Contacts" Id="3e3b4621-6b6f-4e43-8dd4-17dc1a25e7a4" Panel.Bounds="1149,25,43{5,2147483647},43{5,2147483647}" />
+                                <Icon IsSelected="True" Color="#FFFFFFFF" CatalogId="iOS 7 Contacts" Id="3e3b4621-6b6f-4e43-8dd4-17dc1a25e7a4" Panel.Bounds="1149,25,43{5,2147483647},43{5,2147483647}">
+                                    <Icon.Click>
+                                        <CommandSwitchTo SceneId="1a741867-efa3-4052-9b6b-2e606c4f60d7" AutoRevertEvent="Control.Click" Created="02/15/2018 15:43:01" Id="f3b2287e-4a3e-4fe5-9d71-060c788eda6f" />
+                                    </Icon.Click>
+                                </Icon>
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
@@ -267,7 +171,7 @@
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Rectangle Thickness="0" CornerRadius="3" Id="287442a3-8e08-4000-8fc8-31b4e492ba42" Panel.Bounds="88,106,263{5,2147483647},35{5,2147483647}" />
+                                <Rectangle Thickness="0" CornerRadius="3" Background="#FFF68324" Id="287442a3-8e08-4000-8fc8-31b4e492ba42" Panel.Bounds="88,106,263{5,2147483647},35{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
@@ -327,7 +231,7 @@
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Rectangle Thickness="0" CornerRadius="3" Id="02025f91-09e4-407c-bd92-4864c98a5e93" Panel.Bounds="88,168,1104{5,2147483647},326{5,2147483647}" />
+                                <Rectangle Thickness="0" CornerRadius="3" Id="02025f91-09e4-407c-bd92-4864c98a5e93" Panel.Bounds="88,168,1104{5,2147483647},393{5,2147483647}" />
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
@@ -335,19 +239,23 @@
                                 <Title RichText="Изберете как и кога ще вземете поръчката си" Align="Center" Foreground="#FFC0504D" FontSize="24" FontFamily="Roboto" FontStyle="Normal" Id="a9b842f9-a22c-41fc-a16c-271fe38cbae3" Panel.Bounds="130,186,974{5,2147483647},32*{5,2147483647}" />
                             </Add.Item>
                         </Add>
-                        <Add Property="Panel.Children" Before="2524d512-5590-4350-8ec5-aa39aeee2f10" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
                                 <Group GroupName="Group" Id="c350fdde-69ed-479d-92e9-3681c0f48fda" Panel.Bounds="173,262,0*,0*">
                                     <Group.Children>
                                         <Icon CatalogId="Pin" Id="0ae36e12-5a1d-4c2a-8fcf-441de63a99d6" Panel.Bounds="0,0,61{5,2147483647},61{5,2147483647}" />
-                                        <Title RichText="Лично&#xD;&#xA;в нашият ресторант" Align="Center" Foreground="#FF383838" FontSize="18" FontFamily="Roboto" FontStyle="Normal" Id="2524d512-5590-4350-8ec5-aa39aeee2f10" Panel.Bounds="63,6,191{5,2147483647},32*{5,2147483647}" />
+                                        <Title RichText="Лично взимане" Align="Center" Foreground="#FF383838" FontSize="18" FontFamily="Roboto" FontStyle="Normal" Id="2524d512-5590-4350-8ec5-aa39aeee2f10" Panel.Bounds="59,18,191{5,2147483647},32*{5,2147483647}" />
                                     </Group.Children>
                                 </Group>
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Before="c350fdde-69ed-479d-92e9-3681c0f48fda" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
-                                <Rectangle CornerRadius="5" Id="e2ed28db-ded1-4435-88e7-f17e58344af6" Panel.Bounds="169,255,258{5,2147483647},74{5,2147483647}" />
+                                <Rectangle CornerRadius="5" Id="e2ed28db-ded1-4435-88e7-f17e58344af6" Panel.Bounds="169,255,258{5,2147483647},74{5,2147483647}">
+                                    <Rectangle.Click>
+                                        <CommandSwitchTo SceneId="198b1d49-5348-4879-b180-2c9a7164258e" AutoRevertEvent="Control.Click" Created="02/15/2018 11:11:59" Id="e3d1cf38-0038-4fc1-98d0-a3b9ba111619" />
+                                    </Rectangle.Click>
+                                </Rectangle>
                             </Add.Item>
                         </Add>
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
@@ -455,6 +363,19 @@
                                 <Icon IsSelected="True" CatalogId="fa-sticky-note" Id="bfba9d8d-e04f-4116-9a5c-e892537d1fe3" Panel.Bounds="689,366,32{5,2147483647},32{5,2147483647}" />
                             </Add.Item>
                         </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Button Text="НАПРЕД" Background="#FF9BBB59" Foreground="#FF383838" FontFamily="Roboto" FontStyle="Normal" Id="7acb5815-637e-4ce0-904e-dc9f94fca1d3" Panel.Bounds="1030,500,80{5,2147483647},24{5,2147483647}">
+                                    <Button.Click>
+                                        <CommandNavigate Screen="/menu.screen" Created="02/15/2018 11:18:41" Id="20e8433d-dd43-4c1c-888c-aa7234d7fc92">
+                                            <CommandNavigate.Transition>
+                                                <NavigateTransition Duration="0" />
+                                            </CommandNavigate.Transition>
+                                        </CommandNavigate>
+                                    </Button.Click>
+                                </Button>
+                            </Add.Item>
+                        </Add>
                         <Set Property="Content.Background" Value="#FF1C1C1C" Target="f7f9e491-9d86-4158-a657-bab26f06356f" />
                     </KeyFrame.Operations>
                 </KeyFrame>
@@ -497,6 +418,35 @@
                         <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
                             <Add.Item>
                                 <CheckBox Text="запомни ме" FontFamily="Roboto" Id="01b6119f-6ff8-4d28-bbaf-1f4e932668a0" Panel.Bounds="469,384,5*{5,2147483647},5*{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Tapped/Clicked Rectangle" ParentScene="b5cbf612-632b-4a61-b7e6-9dba3991e9ff" Created="02/15/2018 11:11:59" Id="198b1d49-5348-4879-b180-2c9a7164258e">
+            <Scene.KeyFrames>
+                <KeyFrame Id="b636ccc4-42e3-4bef-8df5-a2ac2d15d1a1">
+                    <KeyFrame.Operations>
+                        <Set Property="Shape.Background" Value="#FF8DAE47" Target="e2ed28db-ded1-4435-88e7-f17e58344af6" />
+                        <Set Property="Text.Foreground" Value="#FFFFFFFF" Target="2524d512-5590-4350-8ec5-aa39aeee2f10" />
+                        <Set Property="Icon.Color" Value="#FFFFFFFF" Target="0ae36e12-5a1d-4c2a-8fcf-441de63a99d6" />
+                    </KeyFrame.Operations>
+                </KeyFrame>
+            </Scene.KeyFrames>
+        </Scene>
+        <Scene Title="Tapped/Clicked Contacts" StateGroup="b5cbf612-632b-4a61-b7e6-9dba3991e9ff" ParentScene="b5cbf612-632b-4a61-b7e6-9dba3991e9ff" Created="02/15/2018 15:43:01" Id="1a741867-efa3-4052-9b6b-2e606c4f60d7">
+            <Scene.KeyFrames>
+                <KeyFrame Id="e3bf26e5-f299-47a9-896f-3726cbe252f0">
+                    <KeyFrame.Operations>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Rectangle Thickness="1" CornerRadius="3" Id="51dbeb10-f70d-43a3-9043-9a38620a0fee" Panel.Bounds="1042,72,150{5,2147483647},139{5,2147483647}" />
+                            </Add.Item>
+                        </Add>
+                        <Add Property="Panel.Children" Target="8cbddc13-90ae-40ce-b8b6-c49bf44d8c24">
+                            <Add.Item>
+                                <Title RichText="ПРОФИЛ&#xD;&#xA;АДРЕСИ&#xD;&#xA;ПОРЪЧКИ&#xD;&#xA;ИЗХОД" Align="Right" Foreground="#FF383838" FontSize="21" FontFamily="Roboto" FontStyle="Normal" Id="19d2dacc-4d61-4885-b364-ceae4e072905" Panel.Bounds="966,84,208{5,2147483647},32*{5,2147483647}" />
                             </Add.Item>
                         </Add>
                     </KeyFrame.Operations>

@@ -301,7 +301,7 @@
                             <Add.Item>
                                 <Button Text="ВХОД" Background="#FF4BACC6" FontFamily="Roboto" Id="a07db598-3702-4bb6-84cf-40993c33f4fc" Panel.Bounds="589,342,176{5,2147483647},35{5,2147483647}">
                                     <Button.Click>
-                                        <CommandNavigate Screen="/user.screen" Created="02/14/2018 13:48:48" Id="b10f443b-6963-4fef-bf3d-c89e37f9b364">
+                                        <CommandNavigate Screen="/delivery.screen" Created="02/14/2018 13:48:48" Id="b10f443b-6963-4fef-bf3d-c89e37f9b364">
                                             <CommandNavigate.Transition>
                                                 <NavigateTransition Duration="0" />
                                             </CommandNavigate.Transition>
